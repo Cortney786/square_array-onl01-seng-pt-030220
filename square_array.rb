@@ -6,3 +6,4 @@ def square_array(array)
   finaly_array
 end
  
+ 
